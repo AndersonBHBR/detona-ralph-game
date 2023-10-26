@@ -1,5 +1,6 @@
 # Projeto Jogo do Detona Ralph com JavaScript
 ![image](https://github.com/AndersonBHBR/detona-ralph-game/blob/main/DetonaRalph.png)
+[Clique aqui para acessar o site rodando!](https://andersonbhbr.github.io/detona-ralph-game/)
 
 Jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript. Projeto feito no capítulo Criando um Jogo do Detona Ralph com JavaScript do Bootcamp Potência Tech iFood - Desenvolvimento de Jogos.
 
